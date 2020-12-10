@@ -1,9 +1,22 @@
 ## Examining Evolution of Starch Metabolism in Primates
 ### *Audrey Tjahjadi*
+--------------------
 
-###Overview
+### Overview
 
 This is the project site for my final project for Intro to Bioinformatics. This project will examine the evolutionary history of two starch-metabolizing enzymes, maltase-glucoamylase and sucrase-isomaltase, in the primate clade.
+
+### Genes of Interest
+
+### Primate Species
+
+```
+![Phylogenetic tree from 10kTrees with chosen species]()
+```
+### Referenced Resources and Software
+
+
+
 
 ## Welcome to GitHub Pages
 
@@ -15,12 +28,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
