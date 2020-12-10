@@ -4,28 +4,30 @@
 
 ### Overview
 
-This is the project site for my final project for Intro to Bioinformatics. This project will examine the evolutionary history of two starch-metabolizing enzymes, maltase-glucoamylase and sucrase-isomaltase, in the primate clade.
+This is the project site for my final project for Intro to Bioinformatics. This project will examine the evolutionary history of two starch-metabolizing enzymes, maltase-glucoamylase and sucrase-isomaltase, in the primate clade. The analysis will utilize techniques such as multiple sequence alignment and generation of phylogenetic trees. 
 
 ### Genes of Interest
+
+
 
 ### Primate Species
 
 The analysis will include sequences from 29 species taken from Genbank. 
 
-![Trimmed 10kTrees Primate Phylogeny](https://github.com/teriyakiaud/SI-and-MGAM-Evolution/blob/gh-pages/Consensus%20tree.JPG)
+![Trimmed 10kTrees Primate Phylogeny](Consensus tree.JPG)
 
 ### Referenced Resources and Software
 #### Literature
-1.
+1. Janeike 2016
 2.
 3.
 4.
 
 #### Software and Other Resources
 1. Genbank
-2. 
-3.
-4.
+2. MEGAX
+3. Datamonkey
+4. ClustalOmega
 
 
 ## Welcome to GitHub Pages
@@ -52,10 +54,3 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/teriyakiaud/SI-and-MGAM-Evolution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
