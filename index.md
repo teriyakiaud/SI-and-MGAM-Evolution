@@ -4,7 +4,7 @@
 
 ### Overview
 
-This is the project site for my final project for Intro to Bioinformatics. This project will examine the evolutionary history of two starch-metabolizing enzymes, maltase-glucoamylase and sucrase-isomaltase, in the primate clade. The analysis will utilize techniques such as multiple sequence alignment and generation of phylogenetic trees. 
+This is the project site for my final project for Intro to Bioinformatics. This project will examine the evolutionary history of two starch-metabolizing enzymes, maltase-glucoamylase and sucrase-isomaltase, in the primate clade. The analysis will utilize techniques such as multiple sequence alignment and generation of phylogenetic trees and give additional practice for implementing these techniques.  
 
 ### Genes of Interest
 
@@ -12,7 +12,7 @@ This is the project site for my final project for Intro to Bioinformatics. This 
 
 ### Primate Species
 
-The analysis will include sequences from 29 species taken from Genbank. 
+The analysis will include DNA sequences taken from Genbank for the 29 species of primate shown in the tree below. Highlighted in blue is the clade containing the great apes and humans.  
 
 ![Trimmed 10kTrees Primate Phylogeny](Consensus tree.JPG)
 
@@ -27,7 +27,12 @@ The analysis will include sequences from 29 species taken from Genbank.
 1. Genbank
 2. MEGAX
 3. Datamonkey
-4. ClustalOmega
+Wayne Delport, Art F. Poon, Simon D. W. Frost and Sergei L. Kosakovsky Pond
+Datamonkey 2010: a suite of phylogenetic analysis tools for evolutionary biology
+Bioinformatics 2010 July 29[Epub ahead of print; PMID: 20671151] 
+4. ClustalOmega, EMBL-EBI
+Madeira F, Park YM, Lee J, et al. The EMBL-EBI search and sequence analysis tools APIs in 2019. Nucleic Acids Research. 2019 Jul;47(W1):W636-W641. DOI: 10.1093/nar/gkz268. 
+
 
 
 ## Welcome to GitHub Pages
