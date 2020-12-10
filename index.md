@@ -10,8 +10,9 @@ This is the project site for my final project for Intro to Bioinformatics. This 
 
 ### Primate Species
 
-![Phylogenetic tree from 10kTrees with chosen species](https://github.com/teriyakiaud/SI-and-MGAM-Evolution/blob/gh-pages/Consensus%20tree.JPG)
-![Phylo](/teriyakiaud/SI-and-MGAM-Evolution/Consensus%20tree.JPG)
+The analysis will include sequences from 29 species taken from Genbank. 
+
+![Trimmed 10kTrees Primate Phylogeny](https://github.com/teriyakiaud/SI-and-MGAM-Evolution/blob/gh-pages/Consensus%20tree.JPG)
 
 ### Referenced Resources and Software
 #### Literature
@@ -21,8 +22,8 @@ This is the project site for my final project for Intro to Bioinformatics. This 
 4.
 
 #### Software and Other Resources
-1.
-2.
+1. Genbank
+2. 
 3.
 4.
 
