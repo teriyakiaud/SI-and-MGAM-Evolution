@@ -10,12 +10,21 @@ This is the project site for my final project for Intro to Bioinformatics. This 
 
 ### Primate Species
 
-```
-![Phylogenetic tree from 10kTrees with chosen species]()
-```
+![Phylogenetic tree from 10kTrees with chosen species](https://github.com/teriyakiaud/SI-and-MGAM-Evolution/blob/gh-pages/Consensus%20tree.JPG)
+![Phylo](/teriyakiaud/SI-and-MGAM-Evolution/Consensus%20tree.JPG)
+
 ### Referenced Resources and Software
+#### Literature
+1.
+2.
+3.
+4.
 
-
+#### Software and Other Resources
+1.
+2.
+3.
+4.
 
 
 ## Welcome to GitHub Pages
